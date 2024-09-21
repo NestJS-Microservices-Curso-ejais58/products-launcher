@@ -10,3 +10,6 @@
 [submodule "payments-microservice"]
 	path = payments-microservice
 	url = https://github.com/NestJS-Microservices-Curso-ejais58/payments-microservice.git
+[submodule "auth-microservice"]
+	path = auth-microservice
+	url = https://github.com/NestJS-Microservices-Curso-ejais58/auth-microservice.git
